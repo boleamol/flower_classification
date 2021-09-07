@@ -5,6 +5,9 @@ Dataset can be downloaded from
 https://www.kaggle.com/aritrase/flower-classification
 
 
+I have performed these experiments using Google colab and dataset are stored on my Google drive. So directory path is my Google drive path.
+
+
 | Model architecture  | Accuracy (%)  |
 | --------------------| ------------- |
 | CNN Model           | 64.81         |
